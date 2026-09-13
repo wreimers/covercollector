@@ -8,9 +8,7 @@ version = "0.1.0"
 description = "Download cover images from Grand Comics Database cover pages."
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = [
-    "playwright>=1.40,<2",
-]
+dependencies = []
 
 [project.optional-dependencies]
 dev = [
